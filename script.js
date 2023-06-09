@@ -8,7 +8,7 @@ const person = {
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
 
 let team=["John", "Bob", "Alice", "Dhoni"];
-let team1=["John", "Bob", "Alice", "Dhoni"];
+let team1=["John", "Bob", "Alice", "poppy"];
 let cap1=
 {
 	name: "John Doe",
